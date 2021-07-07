@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angularauth-130ac": {
+      "hosting": {
+        "firebaseFromCodesourceIO": [
+          "angularauth-130ac"
+        ]
+      }
+    }
+  }
+}
